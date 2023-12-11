@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Credentials
+private.json
+token.json
+
+# Cache
+cache/
+
 # C extensions
 *.so
 
